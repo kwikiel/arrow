@@ -1,0 +1,1 @@
+You could just run go run something.go // like a python script
